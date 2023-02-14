@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "My Template Space",
   "source": "src/index.html",
   "homepage": "https://starburn-hub.github.io/my-git-portfolio",
   "scripts": {

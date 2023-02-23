@@ -27,11 +27,11 @@ const siteProps = {
   name: "ODEY BRIGHT",
   title: "Devops and Cloud Engineer",
   email: "odeybrightt@gmail.com",
-  gitHub: "https://github.com/starburn-hub",
-  instagram: "https://www.instagram.com/the_starburn/",
-  linkedIn: "https://www.linkedin.com/in/bright-odey/",
-  medium: "https://medium.com/@brightenxxx",
-  twitter: "https://twitter.com/_StarBurn",
+  gitHub: "starburn-hub",
+  instagram: "the_starburn",
+  linkedIn: "bright-odey",
+  medium: "@brightenxxx",
+  twitter: "_StarBurn",
   youTube: "https://studio.youtube.com/channel/UCv7zmLPoqMztdeDMYGBXt6g",
 };
 
